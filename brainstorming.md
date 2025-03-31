@@ -2,7 +2,7 @@ Initial Brainstorm Ideas: Diner's Mobile App, Social App, Car Dealer's App
 
 Evaluation of Top Three:
 
-Coronel's Diner Mobile App:
+## Coronel's Diner Mobile App: ##
 
 Mobile: The app is probably not very uniquely mobile, as I assume you can view the
 menus from the PC website as well. My technical knowledge on how to use location,
@@ -27,7 +27,7 @@ comes from figuring out what API to use, how to use it, etc. A stripped-down ver
 of this app might be at least a little interesting to build. What I want to build is
 somewhat defined, though: One tab of the Diner (summary? news?), one tab of it's menu.
 
-Social App "Apopsis"? (Discord Clone):
+## Social App "Apopsis"? (Discord Clone): ##
 
 Mobile: This app will probably not be as uniquely mobile as websites, although being able
 to talk to friends anywhere you go would be a big selling point. Aside from that, my
@@ -49,7 +49,7 @@ Scope: The idea is rather well-formed. I know what to make the tabs, and the mai
 of the app. However, technical challenges would revolve around the API, as in how I'm going
 to get posts, show them, what kind of posts, etc. What I want to build is well-defined, though.
 
-Car Dealer's App:
+## Car Dealer's App: ##
 
 Mobile: I guess the experience is not very unique to a mobile platform. What this app can do can
 be easily done in a PC website. I don't have much defense against that, nor do I have the
