@@ -1,6 +1,6 @@
 Initial Brainstorm Ideas: Diner's Mobile App, Social App, Car Dealer's App
 
-Evaluation of Top Three:
+Evaluation of Top Two:
 
 ## Coronel's Diner Mobile App: ##
 
@@ -30,7 +30,7 @@ somewhat defined, though: One tab of the Diner (summary? news?), one tab of it's
 ## Social App "Apopsis"? (Discord Clone): ##
 
 Mobile: This app will probably not be as uniquely mobile as websites, although being able
-to talk to friends anywhere you go would be a big selling point. Aside from that, my
+to talk to friends anywhere you go is a big selling point. Aside from that, my
 technological knowledge limits the app to a mobile version of a website.
 
 Story: This is an app that allows socialization with other people, and lets you create
@@ -49,27 +49,4 @@ Scope: The idea is rather well-formed. I know what to make the tabs, and the mai
 of the app. However, technical challenges would revolve around the API, as in how I'm going
 to get posts, show them, what kind of posts, etc. What I want to build is well-defined, though.
 
-## Car Dealer's App: ##
-
-Mobile: I guess the experience is not very unique to a mobile platform. What this app can do can
-be easily done in a PC website. I don't have much defense against that, nor do I have the
-knowledge to implement mobile tech such as location, real-time, push, maps, etc.
-
-Story: It's most likely going to be an app that will show cars on sale around the nearby area.
-The value of this app should be very clear, as it allows people to browse cars easily.
-Being a general app, my friends probably wouldn't be too impressed or interested, maybe.
-
-Market: The market would be for people who want to browse cars, or be interested in purchasing one.
-I guess the market for the app would be large, and rather general too, since everyone needs a car nowadays.
-It doesn't really provide value to a niche group, being so general.
-
-Habit: The app is probably not habit-forming or addictive. As for how frequently the app would be
-used, probably not very frequent at all. Once they don't want to look for a car anymore, it'd be
-dumped. An average user would consume the app, until it is no longer needed.
-
-Scope: The scope is not very well-formed. Technical challenges will most likely revolve around the API,
-and how to get the cars, prices, descriptions, etc. A stripped-down version probably would not be very
-interesting to build. The product I want to build is also not very defined yet.
-
-Final Choice:
-a
+## Final Choice: Social App "Apopsis"(?) ##
