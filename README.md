@@ -16,7 +16,6 @@ by the community. Another tab shows the user's editable profile.
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Social
 - **Mobile:** This app will probably not be as uniquely mobile as websites, although being able to talk to friends anywhere you go is a big selling point. Aside from that, my technological knowledge limits the app to a mobile version of a website.
 - **Story:** This is an app that allows socialization with other people, and lets you create and customize your own profile. The value of this app is clear, as it will allow people to talk to each other easily and quickly. My friends would probably respond well to this idea.
@@ -46,7 +45,8 @@ by the community. Another tab shows the user's editable profile.
 texts, labels and etc. Screen can be scrolled if there are enough posts.
 
 - [ ] Profile Screen
-* A screen of your own personal profile. Has a username, and a biography section.
+* A screen of your own personal profile. Has a username, and a biography section
+that can be edited by the user.
 
 ### 3. Navigation
 
