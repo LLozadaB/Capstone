@@ -11,8 +11,9 @@
 
 ### Description
 
-A social media app, loosely based on Discord. One tab can look at posts made
-by the community. Another tab shows the user's editable profile.
+A social media app, loosely based on Discord. It showcases posts made by other
+people in the community, containing images and text. The app also contains a
+profile for the user. The profile can be edited, it's changes being saved into memory.
 
 ### App Evaluation
 
@@ -58,10 +59,11 @@ that can be edited by the user.
 **Flow Navigation** (Screen to Screen)
 
 - [ ] Posts Screen
-* Posts can be tapped on to fully view their images and text content.
+* Posts can be tapped on to change screen, fully showing their images and text content.
   
 - [ ] Profile Screen
-* Can tap an edit button to edit your user profile, and save it with User Defaults.
+* Can tap an edit button that changes screen, allowing you to edit your user profile,
+and save it with User Defaults.
 
 ## Wireframes
 
