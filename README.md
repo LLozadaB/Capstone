@@ -41,12 +41,12 @@ profile for the user. The profile can be edited, it's changes being saved into m
 
 ### 2. Screen Archetypes
 
-- [ ] Posts Screen
+- [X] Posts Screen
 * A table view that shows posts made by the community. Shows images, if any,
 texts, labels and etc. Screen can be scrolled if there are enough posts.
 
-- [ ] Profile Screen
-* A screen of your own personal profile. Has a username, and a biography section
+- [X] Profile Screen
+* A screen of your own personal profile. Has a username and a biography section
 that can be edited by the user.
 
 ### 3. Navigation
@@ -58,10 +58,10 @@ that can be edited by the user.
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Posts Screen
+- [X] Posts Screen
 * Posts can be tapped on to change screen, fully showing their images and text content.
   
-- [ ] Profile Screen
+- [X] Profile Screen
 * Can tap an edit button that changes screen, allowing you to edit your user profile,
 and save it with User Defaults.
 
