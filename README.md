@@ -67,19 +67,17 @@ and save it with User Defaults.
 
 ## Wireframes
 
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src = "image0.jpeg" width=600>
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+None.
 
 ### Models
 
-[Add table of models]
+None.
 
 ### Networking
 
 - Network requests for posts and their images, text, labels, etc.
 - Will request many different posts to show simultaneously.
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
