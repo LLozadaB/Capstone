@@ -69,15 +69,21 @@ and save it with User Defaults.
 
 <img src = "image0.jpeg" width=600>
 
-## Schema 
+## Video of App
+
+<a href="https://www.loom.com/share/3445fab08fe74d758aa23a3f4dbf8b87">
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3445fab08fe74d758aa23a3f4dbf8b87-6b31daf3d03d6ca4-full-play.gif">
+</a>
+
+### Schema
 
 None.
 
-### Models
+## Models
 
 None.
 
-### Networking
+## Networking
 
 - Network requests for posts and their images, text, labels, etc.
 - Will request many different posts to show simultaneously.
