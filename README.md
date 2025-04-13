@@ -71,6 +71,9 @@ and save it with User Defaults.
 
 ## Video of App
 
+I did not record an in-progress build of the app.
+I only have the video for the finished build.
+
 <a href="https://www.loom.com/share/3445fab08fe74d758aa23a3f4dbf8b87">
 <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3445fab08fe74d758aa23a3f4dbf8b87-6b31daf3d03d6ca4-full-play.gif">
 </a>
